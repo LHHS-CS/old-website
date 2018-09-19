@@ -1,4 +1,2 @@
-# LHHS CS Club website
-### Made with react and gatsby, published with netlify
-
-lhhs-cs.club[https://lhhs-cs.club]
+# The old LHHS CS Club website
+## This is published at lhhs-cs.surge.sh[lhhs-cs.surge.sh] and redirects to lhhs-cs.club[lhhs-cs.club]
