@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": null,
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/joshuamartinez/Desktop/site/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/joshuamartinez/Desktop/site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b0f55f43bbeb74a3546bb844ff6a51ac",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -228,7 +218,10 @@
           "gatsby-plugin",
           "styled-components"
         ],
-        "author": "Guten Ye <ywzhaifei@gmail.com>",
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -302,7 +295,10 @@
           "noscript",
           "style"
         ],
-        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -364,7 +360,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -447,10 +446,6 @@
             "version": "^2.0.11"
           },
           {
-            "name": "invert-color",
-            "version": "^1.5.0"
-          },
-          {
             "name": "lodash",
             "version": "^4.17.10"
           },
@@ -510,7 +505,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -566,16 +564,14 @@
     },
     "Site": {
       "siteMetadata": {},
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-26T02:54:01.163Z",
+      "buildTime": "2018-09-19T23:40:01.684Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "65081243fd64bd3d57ee65e16313c823",
+        "contentDigest": "06c5ba77ad2744cb0967b2bcbaf0ce0a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -596,7 +592,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dc7cfd3303fe85c537fa75ad70c91da8",
+        "contentDigest": "8bef7f17d995c6be19fb936efdc1f595",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -617,28 +613,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa33599109cacaeb2dec3386c8946df8",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /signup/": {
-      "layout": null,
-      "jsonName": "signup.json",
-      "internalComponentName": "ComponentSignup",
-      "path": "/signup/",
-      "component": "/Users/joshuamartinez/Desktop/site/src/pages/signup.js",
-      "componentChunkName": "component---src-pages-signup-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/joshuamartinez/Desktop/site/src/pages/signup.js",
-      "id": "SitePage /signup/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f3b3d71864724d003cb8f64cbd0b57ab",
+        "contentDigest": "e8d082866317110d1b6dde59904fe2ed",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -659,7 +634,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5f2f446ec4f10d21238a01b491f27b4d",
+        "contentDigest": "4a666aef3c02aec6f47bd290fed32268",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -667,7 +642,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "c03e5b4d6788eaa9af22d570a6c5aa94"
+    "PLUGINS_HASH": "49e9908cdba033a7a34c0573a034dbd9"
   },
   "componentDataDependencies": {
     "nodes": {},
